@@ -40,10 +40,11 @@ One three-way contract, consistent across all endpoints and exchange adapters:
 
 | Repository | Visibility | Description |
 |---|---|---|
-| [`.github`](https://github.com/MistevHQ/.github) | Public | Organization overview and research summary |
+| [`mistev-guard`](https://github.com/MistevHQ/mistev-guard) | Public | Zero-dependency Python reference SDK, Layer 1–2 validation & policy engine, and 11-exchange payload adapters |
 | [`docs`](https://github.com/MistevHQ/docs) | Public | Public website, architecture notes, API specification, and benchmark reports |
+| [`.github`](https://github.com/MistevHQ/.github) | Public | Organization overview and research summary |
 
-*(Core training pipelines and model weights are currently maintained privately during ongoing research.)*
+*(Core training pipelines, datasets, and model weights are maintained privately.)*
 
 ---
 
